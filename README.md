@@ -1,6 +1,6 @@
-# Python Port Scanner
+# KETER Port Scanner
 
-Python Port Scanner is a robust, multithreaded port scanner written in Python. It allows you to scan specific ports or a range of ports on a host. 
+KETER Port Scanner is a robust, multithreaded port scanner written in Python. It allows you to scan specific ports or a range of ports on a host. 
 
 ## Features
 - Multithreaded scanning for fast performance.
