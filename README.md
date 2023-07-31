@@ -14,7 +14,7 @@ Clone this repository using git:
 
 ```bash
 git clone https://github.com/AzrDll/KETER-Portscanner.git
-cd python-port-scanner
+cd KETER-Portscanner
 ```
 
 This script requires Python 3.6 or later. No additional packages are required.
