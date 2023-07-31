@@ -24,13 +24,13 @@ This script requires Python 3.6 or later. No additional packages are required.
 Run the script with the `-H` or `--host` option to specify the host (either a domain name or IP address) that you want to scan, and the `-m` or `--mode` option to specify the scanning mode.
 
 ```bash
-python Robust_Portscanner.py -H www.example.com -m 1
+python KETER-Port-Scanner.py -H www.example.com -m 1
 ```
 
 For a custom range of ports, specify the `-s` or `--start` and `-e` or `--end` options:
 
 ```bash
-python Robust_Portscanner.py -H www.example.com -m 3 -s 5000 -e 6000
+python KETER-Port-Scanner.py -H www.example.com -m 3 -s 5000 -e 6000
 ```
 
 ## Modes
